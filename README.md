@@ -47,3 +47,30 @@ While Cynosure aims to provide a unified experience across multiple platforms, t
   Pentest workspace in your smartphone
 
 Note: While these alternatives offer excellent functionality within their respective domains, Cynosure uniquely combines their strengths into a single cross-platform solution.
+
+## Release Cycle and Code Availability
+
+Our development process follows a structured release cycle designed to ensure maximum stability and security for our users:
+
+1. **Development Phase**  
+   Each new version begins with an intensive development period where major features and improvements are implemented.
+
+2. **Closed Beta Testing**  
+   Before public release, the new version undergoes rigorous closed beta testing by trusted community members and professional testers. This ensures all critical issues are identified and resolved.
+
+3. **Public Release**  
+   Once beta testing is complete and feedback has been incorporated, we release stable builds for all supported platforms (Linux, Windows, macOS, Android).
+
+4. **Maintenance Period**  
+   Between major releases, we provide minor updates and bug fixes to enhance performance and address any emerging issues.
+
+5. **Code Disclosure Policy**  
+   To balance transparency with security, we release the source code for each version only after its successor enters the public release stage. This approach allows us to:
+   - Ensure users have access to fully tested and stable versions
+   - Provide time for community feedback integration before making code publicly available
+   - Maintain high security standards by delaying potential exploit development
+   
+This disciplined approach ensures that Cynosure remains a robust, reliable, and secure tool for ethical hackers while maintaining active community engagement throughout the development process.
+
+## SEO Tags
+> cybersecurity, penetration testing, ethical hacking, cross-platform tools, multi-os security, Linux security, Windows security, macOS security, Android security, network testing, vulnerability assessment, open source pentest, cybersecurity framework, information security, red team tools, blue team tools, security auditing, wireless testing, web application testing, server security testing
